@@ -12,6 +12,7 @@ frontend/.env.test.local
 frontend/.env.production.local
 frontend/package-lock.json
 
+
 # ----------------------
 # Python / FastAPI (backend)
 # ----------------------
